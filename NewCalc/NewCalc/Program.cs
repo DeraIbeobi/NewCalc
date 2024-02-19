@@ -32,8 +32,14 @@ namespace Variable
                 Console.WriteLine($"Result: {result}");
 
                 Console.WriteLine("Do you want to perform another calculation (Y/N): ");
-                char Response = Console.ReadKey().KeyChar;
-                if(Response != 'Y' || Response != 'y')
+                string Response = Console.ReadLine();
+
+                // validate response
+                if(!string.IsNullOrEmpty(Response) && Response[0] != 'Y' && Response[0] != 'y')
+                {
+                    continue;
+                }
+                else
                 {
                     break;
                 }
@@ -48,7 +54,7 @@ namespace Variable
             double number;
             while(!double.TryParse(Console.ReadLine(), out number))
             {
-                break;
+                Console.WriteLine("Invalid input, enter a valid number");
             }
             return number;
         }
