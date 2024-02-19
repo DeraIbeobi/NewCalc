@@ -1,0 +1,15 @@
+/Users/dera/Fresh/NewCalc/NewCalc/NewCalc/obj/Debug/net7.0/NewCalc.csproj.AssemblyReference.cache
+/Users/dera/Fresh/NewCalc/NewCalc/NewCalc/obj/Debug/net7.0/NewCalc.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dera/Fresh/NewCalc/NewCalc/NewCalc/obj/Debug/net7.0/NewCalc.AssemblyInfoInputs.cache
+/Users/dera/Fresh/NewCalc/NewCalc/NewCalc/obj/Debug/net7.0/NewCalc.AssemblyInfo.cs
+/Users/dera/Fresh/NewCalc/NewCalc/NewCalc/obj/Debug/net7.0/NewCalc.csproj.CoreCompileInputs.cache
+/Users/dera/Fresh/NewCalc/NewCalc/NewCalc/bin/Debug/net7.0/NewCalc
+/Users/dera/Fresh/NewCalc/NewCalc/NewCalc/bin/Debug/net7.0/NewCalc.deps.json
+/Users/dera/Fresh/NewCalc/NewCalc/NewCalc/bin/Debug/net7.0/NewCalc.runtimeconfig.json
+/Users/dera/Fresh/NewCalc/NewCalc/NewCalc/bin/Debug/net7.0/NewCalc.dll
+/Users/dera/Fresh/NewCalc/NewCalc/NewCalc/bin/Debug/net7.0/NewCalc.pdb
+/Users/dera/Fresh/NewCalc/NewCalc/NewCalc/obj/Debug/net7.0/NewCalc.dll
+/Users/dera/Fresh/NewCalc/NewCalc/NewCalc/obj/Debug/net7.0/refint/NewCalc.dll
+/Users/dera/Fresh/NewCalc/NewCalc/NewCalc/obj/Debug/net7.0/NewCalc.pdb
+/Users/dera/Fresh/NewCalc/NewCalc/NewCalc/obj/Debug/net7.0/NewCalc.genruntimeconfig.cache
+/Users/dera/Fresh/NewCalc/NewCalc/NewCalc/obj/Debug/net7.0/ref/NewCalc.dll
